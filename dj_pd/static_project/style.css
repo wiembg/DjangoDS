@@ -1,0 +1,18 @@
+.mymodal {
+    height: 480px !important;
+    top: 200px !important;
+    font-size: 20px !important;
+}
+
+
+.ui.button {
+    width: 200px;
+    border-radius: 0px !important;}
+.block-center {
+    text-align: center !important;}
+.field-with{
+     width: 100%;
+}
+.mtop{
+    margin-top:10px !important;
+}
