@@ -15,3 +15,4 @@ where we have explored Django template language (DTL).
 ![upload](https://user-images.githubusercontent.com/48589743/197422409-923971e4-f89b-495f-8d85-ac3fbffb7bad.PNG)
 ![Performance](https://user-images.githubusercontent.com/48589743/197422414-00be55fc-56ea-4ae0-bcff-247df3f5ef10.PNG)
 
+![productcount](https://user-images.githubusercontent.com/48589743/197422441-5187c0c7-f4c1-423d-837b-b722092cc123.PNG)
