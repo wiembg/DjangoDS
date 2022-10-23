@@ -1,7 +1,8 @@
 # DjangoDS
 Working with data science in Django project
 
-This project contains two apps:products+csv_app:(main url.py -> urls.py csv_app + urls.py products_app)
+
+-This project contains two apps:products+csv_app:(main url.py -> urls.py csv_app + urls.py products_app)
 +exploring Django template language (DTL)
 1-Products: modelproduct + modelpurchase
 #pip freeze :to check installed libraries
